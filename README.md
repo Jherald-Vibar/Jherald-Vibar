@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### 🚀 Full-Stack Developer | 🤖 ML Enthusiast | 🎓 CS Student @ SPCC-Caloocan
+  ### 🚀 Full-Stack Developer | 🤖 ML Enthusiast | 🎓 IT Student @ SPCC-Caloocan
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Web+Applications;React+%2B+Laravel+%2B+Python+YOLO;Passionate+about+AI+%26+Computer+Vision;Always+learning%2C+always+coding" alt="Typing SVG" />
   
@@ -19,7 +19,7 @@
 ```typescript
 const jherald = {
     location: "Caloocan City, Philippines 🇵🇭",
-    education: "3rd Year BS Computer Science @ SPCC",
+    education: "3rd Year BS Information Technology @ SPCC",
     currentFocus: ["React", "Laravel", "YOLO Object Detection", "Machine Learning"],
     learning: ["TypeScript", "Flutter", "Advanced ML Algorithms"],
     interests: ["Web Development", "Mobile Apps", "Computer Vision", "AI"],
