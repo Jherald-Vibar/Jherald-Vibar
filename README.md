@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jherald%20Vibar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rald%20Vibz&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
   
-  ### 🚀 Full-Stack Developer | 🤖 ML Enthusiast | 🎓 IT Student @ SPCC-Caloocan
+  ### 🚀 Full-Stack Developer | 🎓 IT Student @ SPCC-Caloocan
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Web+Applications;React+%2B+Laravel+%2B+Python+YOLO;Passionate+about+AI+%26+Computer+Vision;Always+learning%2C+always+coding" alt="Typing SVG" />
   
@@ -22,7 +22,7 @@ const jherald = {
     education: "3rd Year BS Information Technology @ SPCC",
     currentFocus: ["React", "Laravel", "YOLO Object Detection", "Machine Learning"],
     learning: ["TypeScript", "Flutter", "Advanced ML Algorithms"],
-    interests: ["Web Development", "Mobile Apps", "Computer Vision", "AI"],
+    interests: ["Web Development", "Mobile Apps", "Computer Vision", "AI", "IoT"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
