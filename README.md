@@ -19,7 +19,7 @@
 ```typescript
 const jherald = {
     location: "Caloocan City, Philippines 🇵🇭",
-    education: "3rd Year BS Information Technology @ SPCC",
+    education: "4th Year BS Information Technology @ SPCC",
     currentFocus: ["React", "Laravel", "YOLO Object Detection", "Machine Learning"],
     learning: ["TypeScript", "Flutter", "Advanced ML Algorithms"],
     interests: ["Web Development", "Mobile Apps", "Computer Vision", "AI", "IoT"],
